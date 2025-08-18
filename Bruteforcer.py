@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import requests  # A Python library for sending HTTP requests and handling responses (GET, POST, etc.).
 import termcolor  # Library to print colored text and apply text styles in the terminal.
 import os  # For checking if a file exists
